@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+*{
+    margin: 0;
+}
+h1{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    background: #1C3180;
+    padding: 38px;
+    border-bottom: 5px solid #FE630E;
+    ;
+
+}
+.hero{
+      padding: 67px 157px;
+}
+.hero h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+    color: #000000;
+    margin-bottom: 20px;
+    margin-left: 10px;
+  
+ 
+   
+}
+
+.hero p{
+    margin-left: 10px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #000000;
+
+   
+}
+
+
+.power{
+    background-color: #1C3180;
+    padding: 67px 157px;
+   
+
+}
+.power h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: 0em;
+  
+   
+    color: #FE630E;
+
+}
+
+.power p{
+    color: #FFFFFF;
+    font-size: 24px;
+    margin: 50px 0 50px 0;
+
+}
+span{
+    color: #FE630E;
+}
+.info{
+font-size: 24px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+padding: 15px 20px;
+background: #FE630E;
+text-decoration: none;
+color: #FFFFFF;
+
+}
+
+.contact{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0em;
+    padding: 15px 20px;
+    background: #FFFFFF;
+    text-decoration: none;
+    color: #1C3180;
+    
+    }
+    
+    
+
+
